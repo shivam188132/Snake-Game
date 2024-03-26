@@ -27,7 +27,7 @@ https://github.com/shivam188132/Snake-Game/assets/129589858/bc304901-aae0-4033-b
 https://github.com/shivam188132/Snake-Game.git
 
 2. Navigate to the project directory.
-3. Run the game using a code editor or an Ide.
+3. Run the 'main.py' using a code editor or an Ide.
 
 
 ## Usage
