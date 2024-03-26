@@ -2,6 +2,10 @@
 
 Welcome to Snake Game! This project implements a classic Snake game using Python and its libraries, including tkinter and turtle. Players control a snake that grows longer as it consumes balls, with the goal of avoiding collisions that lead to the snake’s demise. The game includes features such as highest score tracking using JSON data files and a visually engaging graphical interface implemented using tkinter and turtle.
 
+
+https://github.com/shivam188132/Snake-Game/assets/129589858/bc304901-aae0-4033-bdb5-6ecfa5bec573
+
+
 ## Features
 
 - Classic Snake gameplay
